@@ -1,2 +1,3 @@
 # COADING-MASTER
-This is my first repositary.
+This is my first git repositary.
+Author - SURAJ GUHA
